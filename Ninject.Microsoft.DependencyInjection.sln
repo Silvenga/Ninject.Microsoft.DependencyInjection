@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninject.Microsoft.DependencyInjection", "Ninject.Microsoft.DependencyInjection\Ninject.Microsoft.DependencyInjection.csproj", "{3D6658C2-32D9-4731-9CAB-1B9D3B353B89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ninject.Microsoft.DependencyInjection", "src\Ninject.Microsoft.DependencyInjection\Ninject.Microsoft.DependencyInjection.csproj", "{E9DD645C-C0AF-4EE9-9186-FDCA2566AE90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3D6658C2-32D9-4731-9CAB-1B9D3B353B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3D6658C2-32D9-4731-9CAB-1B9D3B353B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3D6658C2-32D9-4731-9CAB-1B9D3B353B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3D6658C2-32D9-4731-9CAB-1B9D3B353B89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9DD645C-C0AF-4EE9-9186-FDCA2566AE90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9DD645C-C0AF-4EE9-9186-FDCA2566AE90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9DD645C-C0AF-4EE9-9186-FDCA2566AE90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9DD645C-C0AF-4EE9-9186-FDCA2566AE90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
