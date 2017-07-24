@@ -1,0 +1,1 @@
+# Ninject.Microsoft.DependencyInjection
